@@ -1,7 +1,7 @@
 vim (имя файла)
 esc :wq   - выйти
 git add (имя)
-git commit -m (имя)
+git commit -m "(имя)"
 git push (имя)
 
 
