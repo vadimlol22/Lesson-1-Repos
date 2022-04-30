@@ -1,0 +1,10 @@
+vim (имя файла)
+esc :wq   - выйти
+git add (имя)
+git commit -m (имя)
+git push (имя)
+
+
+
+
+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 - тип пароль
